@@ -5,7 +5,7 @@ Personal website of Olha Hula built with [Github Pages](https://pages.github.com
 ## Local development
 
 - [Prerequisites](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
-- `bundle exec jekyll serve`
+- `jekyll serve`
 - open http://localhost:4000
 
 
