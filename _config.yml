@@ -1,12 +1,11 @@
-# Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Ольга Гула
+description: Ольга Гула - Професійний викладач англійської мови
+details: Сертифікований викладач з кембріджськими сертифікаціями СELTA, FCE and TKT(2,3). Навчаю англійську дорослих і дітей (8-16 років).
+url: https://hula.yunikov.com/
 
-twitter_username:
-github_username:
+twitter_username: HulaOlha
+linkedin_username: olha-hula-12a849147
+email: hula.teaching@gmail.com
 
 # Build settings
 markdown: kramdown
